@@ -1,4 +1,4 @@
-meta]
+[meta]
 {
   "agent_protocol_version": "2.0.0",
   "prompt_style": "multimodal-markdown",
